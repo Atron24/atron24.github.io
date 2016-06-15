@@ -21,7 +21,7 @@
 	color:#ccccff;
 }
 html {
-	background-color:#ccccff;
+	background-color:#ffffff;
 }
 h1 {
 text-align:center;
@@ -90,4 +90,6 @@ font-size:32px;
     left: 50%;
     transform: translate(-50%);
     font-family: 'Hind Vadodara', sans-serif;
+    background-color:#ccccff;
+
 }
