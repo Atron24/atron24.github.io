@@ -25,6 +25,8 @@ html {
 }
 h1 {
 text-align:center;
+font-family: 'Hind Vadodara', sans-serif;
+font-size:32px;
 }
 .imgfloat {
     position:relative;
