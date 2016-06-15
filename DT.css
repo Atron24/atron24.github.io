@@ -46,6 +46,7 @@ text-align:center;
 .info {
     width: auto;
     margin:40px 20% 60px 20%;
+    font-family: 'Hind Vadodara', sans-serif;
 }
 
  
@@ -80,4 +81,6 @@ text-align:center;
     position:relative;
     left: 50%;
     transform: translate(-50%);
+    font-family: 'Hind Vadodara', sans-serif;
+
 }
