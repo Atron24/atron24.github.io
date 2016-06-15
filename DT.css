@@ -90,13 +90,10 @@ font-size:32px;
 
 .title{
     position:relative;
-    left: 50%;
-    transform: translate(-50%);
-    font-family: 'Hind Vadodara', sans-serif;
     background-color:#ccccff;
 
 }
 .top{
 	background-color:#ccccff;
-	width:100%;
+	text-align:center;
 }
