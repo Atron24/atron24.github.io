@@ -109,8 +109,6 @@ font-size:32px;
 
 .img {
 	position:relative;
- 	left: 50%;
- 	transform:translate(-50%);
 	text-align:center;
 	width:60%;
 }
