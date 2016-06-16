@@ -116,4 +116,8 @@ font-size:32px;
 }
 .sheader {
 	top:0;
+	max-width:100%;
+	text-align:center;
+	height:auto;
+	display:block;
 }
