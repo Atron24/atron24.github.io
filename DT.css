@@ -59,12 +59,12 @@ font-size:32px;
 
  
  .credits {
-    color: #555;
-    position: fixed;
-    bottom: -20px;
-    font-family:Arial;
-    background-color:white;
-    display:block; 
+        color: #555;
+        position: fixed;
+        bottom: -20px;
+        font-family:Arial;
+        background-color:white;
+        display:block; 
 	cursor:url(logo.png);
 	width:100%;
 	margin-top:20px;
