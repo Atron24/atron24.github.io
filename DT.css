@@ -114,3 +114,6 @@ font-size:32px;
 	height:auto;
 	display:block;
 }
+.sheader {
+	margin-top:-2px;
+}
