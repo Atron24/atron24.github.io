@@ -65,7 +65,7 @@ font-size:32px;
     font-family:Arial;
     background-color:white;
     display:block; 
-	cursor:alias;
+	cursor:url(logo.jpg);
 	width:100%;
 	margin-top:20px;
 	height:20px;
