@@ -97,7 +97,31 @@ font-size:32px;
 	background-color:#ccccff;
 	text-align:center;
 }
+
+//Space Page
+
 .stitle {
 	font-size:60px;
 	font-family: 'Mitr', sans-serif;
+}
+.header {
+	color: #fff;
+    position: fixed;
+    top: -20px;
+    font-family:Arial;
+    background-color:#330033;
+    display:block; 
+	width:100%;
+	margin-bottom:20px;
+	height:60px;
+	left:-.5px;
+	overflow:hidden;
+}
+.img {
+    position:relative;
+ 	left: 50%;
+ 	transform:translate(-50%);
+    margin:60px 0 70px 0;
+    text-align:center;
+    float:left;
 }
