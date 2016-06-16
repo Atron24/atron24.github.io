@@ -115,6 +115,14 @@ font-size:32px;
 	margin:60px auto 70px auto;
 	text-align:center;
 }
+
+/* Keep images from displaying too wide */
+.img-wrapper img, .sheader img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
 .sheader {
 	top:0;
 	max-width: 100%;
