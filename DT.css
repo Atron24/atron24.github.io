@@ -65,10 +65,10 @@ font-size:32px;
     font-family:Arial;
     background-color:white;
     display:block; 
-	cursor:url(logo.jpg);
+	cursor:url(logo.png);
 	width:100%;
 	margin-top:20px;
-	height:20px;
+	height:40px;
 	left:-.5px;
 	overflow:hidden;
 }
