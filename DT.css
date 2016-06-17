@@ -25,7 +25,7 @@ head{
 }
 body {
 	height:20px;
-	background-color:#ccccff;
+	background-color:#ffffff;
 	background: #ccccff; /* For browsers that do not support gradients */
 	background: -webkit-linear-gradient(#ccccff, #ffffff); /* For Safari 5.1 to 6.0 */
     	background: -o-linear-gradient(#ccccff, #ffffff); /* For Opera 11.1 to 12.0 */
