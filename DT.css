@@ -22,6 +22,7 @@
 }
 head{
 	background-color:#ccccff;
+	background: linear-gradient(to left, #ccccff , #ffffff);
 }
 body {
 	background-color:#ffffff;
