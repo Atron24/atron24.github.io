@@ -22,11 +22,11 @@
 }
 head{
 	background-color:#ccccff;
-	background: -webkit-linear-gradient(#ccccff , #ffffff);
-	background: linear-gradient(#ccccff , #ffffff);
 }
 body {
-	background-color:#ffffff;
+	background-color:#ccccff;
+	background: -webkit-linear-gradient(#ccccff , #ffffff);
+	background: linear-gradient(#ccccff , #ffffff);
 }
 h1 {
 text-align:center;
