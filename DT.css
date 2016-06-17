@@ -22,7 +22,8 @@
 }
 head{
 	background-color:#ccccff;
-	background: linear-gradient(to left, #ccccff , #ffffff);
+	background: -webkit-linear-gradient(#ccccff , #ffffff);
+	background: linear-gradient(#ccccff , #ffffff);
 }
 body {
 	background-color:#ffffff;
